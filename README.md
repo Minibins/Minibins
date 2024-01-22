@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maksym</h1>
 <h3 align="center">A passionate unity developer from Ukraine</h3>
 
-
-- 🔭 I’m currently working on [Game Engine](https://github.com/Minibins/DustyEngine)
-
-- 🌱 I’m currently learning **SFML.Net**
-
-- 👯 I’m looking to collaborate on [Game Engine](https://github.com/Minibins/DustyEngine)
-
-- 🤝 I’m looking for help with [Game Engine](https://github.com/Minibins/DustyEngine)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Minibins?tab=repositories](https://github.com/Minibins?tab=repositories)
-
-- 📫 How to reach me **mini6ins@gmail.com**
-
-- ⚡ Fun fact **None**
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
