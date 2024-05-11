@@ -1,27 +1,44 @@
-<h1 align="center">Hi 👋, I'm Maksym</h1>
-<h3 align="center">A passionate unity developer from Ukraine</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maksym
+==============================================================================================================================
 
-<h3 align="left">Languages and Tools:</h3>
+A passionate unity developer from Ukraine
+-----------------------------------------
+
+* 🌍  I'm based in Unity
+* ✉️  You can contact me at [mini6ins@gmail.com](mailto:mini6ins@gmail.com)
+* 🚀  I'm currently working on [AntiVirusMan](http://play.google.com/store/apps/details?id=com.DustyStudio.AntiVirusMan&hl=ru&gl=US)
+* 🧠  I'm learning Advanced C#
+
+### Skills
+
+
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
 
+### Socials
 
+<p align="left"> <a href="https://discord.com/users/minibin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Minibins" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minibins&theme=tokyonight" alt="minibins" /></p>
+### Badges
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minibins&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="minibins" /></p>
+<b>My GitHub Stats</b>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minibins&label=Profile%20views&color=0e75b6&style=flat" alt="minibins" /> </p>
+<a href="http://www.github.com/Minibins"><img src="https://github-readme-stats.vercel.app/api?username=Minibins&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Minibins's GitHub stats" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minibins&theme=tokyonight" alt="minibins" /></a> </p>
+<a href="http://www.github.com/Minibins"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Minibins&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/Minibins"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Minibins&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://github.com/Minibins" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minibins&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/v"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
