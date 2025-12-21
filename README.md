@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate unity developer from Ukraine
 -----------------------------------------
 
-* 🌍  I'm based in Unity
 * ✉️  You can contact me at [mini6ins@gmail.com](mailto:mini6ins@gmail.com)
-* 🚀  I'm currently working on [AntiVirusMan](http://play.google.com/store/apps/details?id=com.DustyStudio.AntiVirusMan&hl=ru&gl=US)
+* 🚀  I'm currently working on DustyEngine
 * 🧠  I'm learning Advanced C#
 
 ### Skills
