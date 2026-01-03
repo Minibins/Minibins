@@ -70,6 +70,7 @@ Currently, I work on personal projects to improve my advanced C# skills and expa
 <ul>
   <li><b>Telegram:</b> <a href="https://t.me/Minibins" target="_blank">@Minibins</a></li>
   <li><b>Instagram:</b> <a href="https://instagram.com/mini6ins" target="_blank">@mini6ins</a></li>
+  <li><b>Itch.io:</b> <a href="https://minibin.itch.io">minibin.itch.io</a></li>
 </ul>
 
 
