@@ -13,9 +13,7 @@ Currently, I work on personal projects to improve my advanced C# skills and expa
 <h3>Skills:</h3>
 
 <ul>
-<li>
-<li>
-  <b>Languages:</b> C# (.NET, ASP.NET), C/C++ (basic), NASM (basic), Python (good)</li>
+  <li><b>Languages:</b> C# (.NET, ASP.NET), C/C++ (basic), NASM (basic), Python (good)</li>
   <li><b>Programming principles:</b> OOP, SOLID</li>
   <li><b>Concepts:</b> patterns</li>
   <li><b>Game development:</b> Unity, custom game engines</li>
