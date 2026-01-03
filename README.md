@@ -1,7 +1,7 @@
 <h2>About Me</h2>
 
 <p>
-Hi! My name is Maksym. I am <span id="age"></span> years old and I am from Ukraine.
+Hi! My name is Maksym. I am 16 years old and I am from Ukraine.
 </p>
 
 <p>
@@ -9,19 +9,6 @@ I am a C# developer with previous experience in Unity.
 I am interested in game engines, graphics programming, and building my own tools and systems.
 </p>
 
-<script>
-  const birthDate = new Date("2009-12-03");
-  const today = new Date();
-
-  let age = today.getFullYear() - birthDate.getFullYear();
-  const m = today.getMonth() - birthDate.getMonth();
-
-  if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
-    age--;
-  }
-
-  document.getElementById("age").textContent = age;
-</script>
 
 
 
