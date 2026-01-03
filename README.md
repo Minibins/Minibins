@@ -6,9 +6,18 @@ Hi! My name is Maksym. I am 16 years old and I am from Ukraine.
 
 <p>
 I am a C# developer with previous experience in Unity.  
-I am interested in game engines, graphics programming, and building my own tools and systems.
+I focus on clean code, software architecture, and building reusable systems.
 </p>
 
+<h3>Skills</h3>
+
+<ul>
+  <li><b>Language:</b> C# (.NET)</li>
+  <li><b>Programming principles:</b> OOP, SOLID</li>
+  <li><b>Concepts:</b> patterns</li>
+  <li><b>Game development:</b> Unity, custom game engines</li>
+  <li><b>Tools:</b> Git, GitHub, JetBrains Rider</li>
+</ul>
 
 
 
